@@ -1,0 +1,23 @@
+[
+    {
+        "id" :1,
+        "productname" : "Bingo Chips",
+        "Cost" : 20,
+        "image" : "https://m.media-amazon.com/images/I/81tzFgAzZBL._SL1500_.jpg",
+        "description" : "Bingo is a famous chips brand with lot of flavours" 
+    },
+    {
+        "id" :2,
+        "productname" : "Snickers",
+        "Cost" : 10,
+        "image" : "https://m.media-amazon.com/images/I/61KLVHLPC8L._SX679_.jpg",
+        "description" : "Hungry???, Grab a Snicker"
+    },
+    {
+        "id" : 3,
+        "productname" : "Maggi",
+        "Cost" : 15,
+        "image" : "https://m.media-amazon.com/images/I/81dpDHc95AL.jpg",
+        "description" : "Two minutes Noodles"
+    }
+]

@@ -1,0 +1,39 @@
+.image {
+    margin-top: 10%;
+    width: 100px;
+    height: 100px;
+    background-color:rgb(213, 222, 225) ;
+}
+
+.item {
+    border: 10px;
+}
+.container{
+   display: flex;
+   flex: 1;
+   justify-content: space-around;
+   width: 800px;
+   margin-left: 15%;
+   
+}
+.cardlist{
+    flex:1;
+
+  border: 2px black solid;
+  border-radius: 5%;
+  height: 300px;
+  width: 200px;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(213, 222, 225);
+   
+}
+.cont{
+    height: 300px;
+    width: 200px;
+}
+.cardlist:hover{
+    background-color: rgb(142, 185, 212);
+    height: 310px;
+    width: 210px;
+}
