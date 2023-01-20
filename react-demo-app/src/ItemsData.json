@@ -3,6 +3,7 @@
         "id" :1,
         "productname" : "Bingo Chips",
         "Cost" : 20,
+        "category" : "packedItems",
         "image" : "https://m.media-amazon.com/images/I/81tzFgAzZBL._SL1500_.jpg",
         "description" : "Bingo is a famous chips brand with lot of flavours" 
     },
@@ -10,6 +11,7 @@
         "id" :2,
         "productname" : "Snickers",
         "Cost" : 10,
+        "category" : "packedItems",
         "image" : "https://m.media-amazon.com/images/I/61KLVHLPC8L._SX679_.jpg",
         "description" : "Hungry???, Grab a Snicker"
     },
@@ -17,6 +19,31 @@
         "id" : 3,
         "productname" : "Maggi",
         "Cost" : 15,
+        "category" : "packedItems",
+        "image" : "https://m.media-amazon.com/images/I/81dpDHc95AL.jpg",
+        "description" : "Two minutes Noodles"
+    },
+    {
+        "id" : 4,
+        "productname" : "Apple",
+        "Cost" : 200,
+        "category" : "fruits",
+        "image" : "https://5.imimg.com/data5/AK/RA/MY-68428614/apple-1000x1000.jpg",
+        "description" : "0gm fat, 1gm proteinr,3gms fiber"
+    },
+    {
+        "id" : 5,
+        "productname" : "Maggi",
+        "Cost" : 15,
+        "category" : "packedItems",
+        "image" : "https://m.media-amazon.com/images/I/81dpDHc95AL.jpg",
+        "description" : "Two minutes Noodles"
+    },
+    {
+        "id" : 6,
+        "productname" : "Maggi",
+        "Cost" : 15,
+        "category" : "packedItems",
         "image" : "https://m.media-amazon.com/images/I/81dpDHc95AL.jpg",
         "description" : "Two minutes Noodles"
     }

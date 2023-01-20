@@ -15,8 +15,9 @@ function ItemsList(props){
                 //     </div>
                 // </li>
                
-        
+                
                 return <div className={classes.cont}>
+                    {/* <div className={classes.break}> </div> */}
                 <div key={i.id} className={classes.cardlist}>
                     <div>
                         <img className={classes.image} src={myItem.image} alt={myItem.productname}/>
@@ -26,10 +27,14 @@ function ItemsList(props){
                          <p>{myItem.Cost}</p>
                           <p>{myItem.description}</p>
                        </div>
+                      
                 </div>
+                  
+            
                 </div>
+                 
             })}
-           
+       
             
         </div>  
     )
